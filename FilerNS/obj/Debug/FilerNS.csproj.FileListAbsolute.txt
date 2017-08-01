@@ -1,0 +1,14 @@
+D:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\bin\Debug\FilerNS.dll
+D:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\bin\Debug\FilerNS.pdb
+D:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.csprojResolveAssemblyReference.cache
+D:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.dll
+D:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.pdb
+E:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\bin\Debug\FilerNS.dll
+E:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\bin\Debug\FilerNS.pdb
+E:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.csprojResolveAssemblyReference.cache
+E:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.dll
+E:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.pdb
+F:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\bin\Debug\FilerNS.dll
+F:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\bin\Debug\FilerNS.pdb
+F:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.dll
+F:\BCPR283 (C#)\final assignment\REBUILD_v2\WinFormNS\FilerNS\obj\Debug\FilerNS.pdb
